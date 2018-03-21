@@ -20,3 +20,23 @@ inserting, removing, popping, indexing, counting, sorting, and reversing lists.
 
 _________________________________________________
 
+Dictionaries
+
+- The dictionary consists of pairs of items that contain a key and value.
+- When constructing a dictionary, each key is separated from its value by a colon,
+and we separate items by commas.
+
+methods:
+.keys()       will return a list of all keys in the dictionary and that the method
+.items()      will return an entire list of items in the dictionary
+.values() 
+(nameOfDict['nameOfKey'])
+
+__________________________________________________
+
+Networking 
+
+After importing the
+socket module, we instantiate a new variable s from the class socket class. Next,
+we use the connect() method to make a network connection to the IP address
+and port. Once successfully connected, we can read and write from the socket
