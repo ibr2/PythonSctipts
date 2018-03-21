@@ -1,0 +1,22 @@
+
+---------------------------------------------
+Strings: 
+
+str() has the following function:
+
+upper() | lower() | replace() | find() 
+
+Upper() converts a string to its uppercase variant. 
+Lower() converts a string to its lowercase variant.
+Replace(old,new) replaces the old occurrence of the substring old with the substring new. 
+Find() reports the offset where the first occurrence of the substring occurs.
+
+-----------------------------------------------
+
+Lists
+
+built-in methods exist for performing actions such as appending, 
+inserting, removing, popping, indexing, counting, sorting, and reversing lists.
+
+_________________________________________________
+
